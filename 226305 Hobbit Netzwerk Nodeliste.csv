@@ -1,0 +1,216 @@
+id,name,sex,age,origin,homeland,medium,book chapter,film section,location
+Gandalf,Gandalf der Graue,2,5,6,10,3,99,99,99
+Bilbo,Bilbo Beutlin,2,2,1,1,3,99,99,99
+Thorin,Thorin Eichenschild,2,4,5,2,3,99,99,99
+Bifur,Bifur der Zitternde,2,2,5,8,3,99,99,99
+Bofur,Bofur der Zitternde,2,2,5,8,3,99,99,99
+Fili,Fili der Verberger,2,2,5,2,3,99,99,99
+Kili,Kili der Keilschmied,2,2,5,2,3,99,99,99
+Dori,Dori der Narr,2,2,5,9,3,99,99,99
+Nori,Nori der Winzling,2,2,5,9,3,99,99,99
+Ori,Ori der Verrückte,2,2,5,9,3,99,99,99
+Oin,Oin der Furchtsame,2,4,5,2,3,99,99,99
+Gloin,Gloin der Glühende ,2,4,5,2,3,99,99,99
+Balin,Balin Sohn des Fundin,2,4,5,2,3,99,99,99
+Dwalin,Dwalin der Schlafende,2,4,5,2,3,99,99,99
+Bombur,Bombur der Dicke,2,2,5,8,3,99,99,99
+Gollum,Gollum Smeagol,2,5,1,1,3,99,99,99
+Alfrid,Alfrid Lickspittle,2,1,4,7,2,99,99,99
+Bard,Bard der Bogenschütze,2,1,4,7,3,99,99,99
+Beorn,Beorn der Hautwechsler,2,99,7,6,3,99,99,99
+Bain,Bain König von Thal,2,1,4,7,2,99,99,99
+Braga,Braga Befehlshaber der Wache,2,99,4,7,2,99,99,99
+Galion,Galion Bedienstester von Thranduil,2,99,2,3,3,99,99,99
+Legolas,Legolas Sohn von Thranduil,2,5,2,3,2,99,99,99
+Meister der Seestadt,Bürgermeister von Esgaroth,2,99,4,7,3,99,99,99
+Sigrid,Sigrid Bardsdottir,1,1,4,7,2,99,99,99
+Tauriel,Tauriel Tochter des Waldes,1,5,2,3,2,99,99,99
+Thranduil,Thranduil König unter Eiche und Buche,1,5,2,3,3,99,99,99
+Tilda,Tilda Tochter von Bard,1,1,4,7,2,99,99,99
+Peridur,Peridur Wächter des Zolltores der Seestadt,2,99,4,7,2,99,99,99
+Hilda Bianca,Hilda Bianca Marktverkäuferin,1,1,4,7,2,99,99,99
+Azog,Azog der Orkhäuptling,2,99,3,2,2,99,99,99
+Bolg,Sohn von Azog,2,99,3,2,3,99,99,99
+Fimbul,Fimbul aus Azogs Armee,2,99,3,7,2,99,99,99
+Grinnah,Grinnah der Handlanger vom Großen Ork,2,99,3,2,2,99,99,99
+Yazneg,Yazneg der Orkjäger,2,99,3,5,2,99,99,99
+Großer Goblin,Großer Goblin,2,99,3,5,3,99,99,99
+Goblin-Schreiber,Goblin-Schreiber,2,99,3,5,2,99,99,99
+Narzug,Narzug der Gundabadork unter Azogs Kommando,2,99,3,3,2,99,99,99
+Verlieswächter,Verlieswächter,2,99,3,5,2,99,99,99
+Nekromant,Nekromant Synonym für Sauron,2,5,8,3,2,99,99,99
+Ringgeister,Schwarze Reiter,2,5,11,13,2,99,99,99
+Bert,Bert Huggins,2,99,9,4,2,99,99,99
+Bill,Bill Huggins,2,99,9,4,3,99,99,99
+Tom,Tom Huggins,2,99,9,4,3,99,99,99
+Elrond,Elrond,2,5,2,4,3,99,99,99
+Galadriel,Herrin von Lothlorien,1,5,2,4,3,99,99,99
+Lindir,Lindir,2,5,2,4,2,99,99,99
+Radagast,Radagast der Braune,2,5,6,10,3,99,99,99
+Saruman,Saruman der Weiße,2,5,6,12,3,99,99,99
+Dain II,Dáin II. Eisenfuß,2,5,5,3,3,99,99,99
+Girion,Girion Fürst von Thal,2,1,4,2,2,99,99,99
+Smaug,Smaug der Goldene,2,5,10,2,3,99,99,99
+Thror,König Thror,2,4,5,2,3,99,99,99
+Thrain II,König Thrain Sohn des Thror,2,5,5,2,3,99,99,99
+Wirt Butterblume,Gerstenmann Butterblume,2,2,4,11,2,99,99,99
+Belladonna Beutlin,Belladonna Beutlin,1,2,1,1,2,99,99,99
+Betsy,Betsy Butterblume,1,99,4,11,2,99,99,99
+Frodo,Frodo Beutlin,2,1,1,1,2,99,99,99
+Tosser,Tosser Grubb,2,3,1,1,2,99,99,99
+Thorin1,Thorin Eichenschild,99,99,99,99,99,99,1,1
+Thror1,König Thror,99,99,99,99,99,99,1,1
+Thrain II1,König Thrain Sohn des Thror,99,99,99,99,99,99,1,1
+Bilbo1,Bilbo Beutlin,99,99,99,99,99,99,1,1
+Balin1,Balin Sohn des Fundin,99,99,99,99,99,99,1,1
+Bifur1,Bifur der Zitternde,99,99,99,99,99,99,1,1
+Bofur1,Bofur der Zitternde,99,99,99,99,99,99,1,1
+Bombur1,Bombur der Dicke,99,99,99,99,99,99,1,1
+Dori1,Dori der Narr,99,99,99,99,99,99,1,1
+Dwalin1,Dwalin der Schlafende,99,99,99,99,99,99,1,1
+Fili1,Fili der Verberger,99,99,99,99,99,99,1,1
+Gloin1,Gloin der Glühende ,99,99,99,99,99,99,1,1
+Kili1,Kili der Keilschmied,99,99,99,99,99,99,1,1
+Nori1,Nori der Winzling,99,99,99,99,99,99,1,1
+Thorin2,Thorin Eichenschild,99,99,99,99,99,99,1,1
+Oin1,Oin der Furchtsame,99,99,99,99,99,99,1,1
+Ori1,Ori der Verrückte,99,99,99,99,99,99,1,1
+Azog1,Azog der Orkhäuptling,99,99,99,99,99,99,1,1
+Bolg1,Sohn von Azog,99,99,99,99,99,99,1,1
+Fimbul1,Fimbul aus Azogs Armee,99,99,99,99,99,99,1,1
+Yazneg1,Yazneg der Orkjäger,99,99,99,99,99,99,1,1
+Narzug1,Narzug der Gundabadork unter Azogs Kommando,99,99,99,99,99,99,1,1
+Bilbo2,Bilbo Beutlin,99,99,99,99,99,99,3,7
+Gandalf1,Gandalf der Graue,99,99,99,99,99,99,3,7
+Bilbo3,Bilbo Beutlin,99,99,99,99,99,4,99,99
+Gandalf2,Gandalf der Graue,99,99,99,99,99,4,99,99
+Balin2,Balin Sohn des Fundin,99,99,99,99,99,4,99,99
+Nekromant1,Nekromant Synonym für Sauron,99,99,99,99,99,99,2,5
+Bolg2,Sohn von Azog,99,99,99,99,99,99,2,5
+Azog2,Azog der Orkhäuptling,99,99,99,99,99,99,2,5
+Fimbul2,Fimbul aus Azogs Armee,99,99,99,99,99,99,2,5
+Gandalf3,Gandalf der Graue,99,99,99,99,99,99,2,5
+Radagast1,Radagast der Braune,99,99,99,99,99,99,2,5
+Thrain II2,König Thrain Sohn des Thror,99,99,99,99,99,99,2,5
+Gandalf4,Gandalf der Graue,99,99,99,99,99,99,3,6
+Radagast2,Radagast der Braune,99,99,99,99,99,99,3,6
+Nekromant2,Nekromant Synonym für Sauron,99,99,99,99,99,99,3,6
+Elrond1,Elrond,99,99,99,99,99,99,3,6
+Galadriel1,Herrin von Lothlorien,99,99,99,99,99,99,3,6
+Saruman1,Saruman der Weiße,99,99,99,99,99,99,3,6
+Ringgeister1,Schwarze Reiter,99,99,99,99,99,99,3,6
+Bilbo4,Bilbo Beutlin,99,99,99,99,99,99,2,4
+Thorin3,Thorin Eichenschild,99,99,99,99,99,99,2,4
+Bifur2,Bifur der Zitternde,99,99,99,99,99,99,2,4
+Bofur2,Bofur der Zitternde,99,99,99,99,99,99,2,4
+Fili2,Fili der Verberger,99,99,99,99,99,99,2,4
+Kili2,Kili der Keilschmied,99,99,99,99,99,99,2,4
+Dori2,Dori der Narr,99,99,99,99,99,99,2,4
+Nori2,Nori der Winzling,99,99,99,99,99,99,2,4
+Ori2,Ori der Verrückte,99,99,99,99,99,99,2,4
+Oin2,Oin der Furchtsame,99,99,99,99,99,99,2,4
+Gloin2,Gloin der Glühende ,99,99,99,99,99,99,2,4
+Balin3,Balin Sohn des Fundin,99,99,99,99,99,99,2,4
+Dwalin2,Dwalin der Schlafende,99,99,99,99,99,99,2,4
+Bombur2,Bombur der Dicke,99,99,99,99,99,99,2,4
+Alfrid1,Alfrid Lickspittle,99,99,99,99,99,99,2,4
+Bard1,Bard der Bogenschütze,99,99,99,99,99,99,2,4
+Bain1,Bain König von Thal,99,99,99,99,99,99,2,4
+Braga1,Braga Befehlshaber der Wache,99,99,99,99,99,99,2,4
+Legolas1,Legolas Sohn von Thranduil,99,99,99,99,99,99,2,4
+Meister der Seestadt1,Bürgermeister von Esgaroth,99,99,99,99,99,99,2,4
+Sigrid1,Sigrid Bardsdottir,99,99,99,99,99,99,2,4
+Tauriel1,Tauriel Tochter des Waldes,99,99,99,99,99,99,2,4
+Tilda1,Tilda Tochter von Bard,99,99,99,99,99,99,2,4
+Peridur1,Peridur Wächter des Zolltores der Seestadt,99,99,99,99,99,99,2,4
+Hilda Bianca1,Hilda Bianca Marktverkäuferin,99,99,99,99,99,99,2,4
+Bolg3,Sohn von Azog,99,99,99,99,99,99,2,4
+Smaug1,Smaug der Goldene,99,99,99,99,99,99,2,4
+Girion1,Girion Fürst von Thal,99,99,99,99,99,99,2,4
+Thorin4,Thorin Eichenschild,99,99,99,99,99,3,99,99
+Bifur3,Bifur der Zitternde,99,99,99,99,99,3,99,99
+Bofur3,Bofur der Zitternde,99,99,99,99,99,3,99,99
+Fili3,Fili der Verberger,99,99,99,99,99,3,99,99
+Kili3,Kili der Keilschmied,99,99,99,99,99,3,99,99
+Dori3,Dori der Narr,99,99,99,99,99,3,99,99
+Nori3,Nori der Winzling,99,99,99,99,99,3,99,99
+Ori3,Ori der Verrückte,99,99,99,99,99,3,99,99
+Oin3,Oin der Furchtsame,99,99,99,99,99,3,99,99
+Gloin3,Gloin der Glühende ,99,99,99,99,99,3,99,99
+Balin4,Balin Sohn des Fundin,99,99,99,99,99,3,99,99
+Dwalin3,Dwalin der Schlafende,99,99,99,99,99,3,99,99
+Bombur3,Bombur der Dicke,99,99,99,99,99,3,99,99
+Meister der Seestadt2,Bürgermeister von Esgaroth,99,99,99,99,99,3,99,99
+Bilbo5,Bilbo Beutlin,99,99,99,99,99,3,99,99
+Bilbo6,Bilbo Beutlin,99,99,99,99,99,99,2,3
+Thorin5,Thorin Eichenschild,99,99,99,99,99,99,2,3
+Bifur4,Bifur der Zitternde,99,99,99,99,99,99,2,3
+Bofur4,Bofur der Zitternde,99,99,99,99,99,99,2,3
+Fili4,Fili der Verberger,99,99,99,99,99,99,2,3
+Kili4,Kili der Keilschmied,99,99,99,99,99,99,2,3
+Dori4,Dori der Narr,99,99,99,99,99,99,2,3
+Nori4,Nori der Winzling,99,99,99,99,99,99,2,3
+Ori4,Ori der Verrückte,99,99,99,99,99,99,2,3
+Oin4,Oin der Furchtsame,99,99,99,99,99,99,2,3
+Gloin4,Gloin der Glühende ,99,99,99,99,99,99,2,3
+Balin5,Balin Sohn des Fundin,99,99,99,99,99,99,2,3
+Dwalin4,Dwalin der Schlafende,99,99,99,99,99,99,2,3
+Bombur4,Bombur der Dicke,99,99,99,99,99,99,2,3
+Beorn1,Beorn der Hautwechsler,99,99,99,99,99,99,2,3
+Legolas2,Legolas Sohn von Thranduil,99,99,99,99,99,99,2,3
+Tauriel2,Tauriel Tochter des Waldes,99,99,99,99,99,99,2,3
+Thranduil1,Thranduil König unter Eiche und Buche,99,99,99,99,99,99,2,3
+Galion2,Galion Bedienstester von Thranduil,99,99,99,99,99,99,2,3
+Bolg4,Sohn von Azog,99,99,99,99,99,99,2,3
+Narzug2,Narzug der Gundabadork unter Azogs Kommando,99,99,99,99,99,99,2,3
+Bilbo7,Bilbo Beutlin,99,99,99,99,99,2,99,99
+Thorin6,Thorin Eichenschild,99,99,99,99,99,2,99,99
+Bifur5,Bifur der Zitternde,99,99,99,99,99,2,99,99
+Bofur5,Bofur der Zitternde,99,99,99,99,99,2,99,99
+Fili5,Fili der Verberger,99,99,99,99,99,2,99,99
+Kili5,Kili der Keilschmied,99,99,99,99,99,2,99,99
+Dori5,Dori der Narr,99,99,99,99,99,2,99,99
+Nori5,Nori der Winzling,99,99,99,99,99,2,99,99
+Ori5,Ori der Verrückte,99,99,99,99,99,2,99,99
+Oin5,Oin der Furchtsame,99,99,99,99,99,2,99,99
+Gloin5,Gloin der Glühende ,99,99,99,99,99,2,99,99
+Balin6,Balin Sohn des Fundin,99,99,99,99,99,2,99,99
+Dwalin5,Dwalin der Schlafende,99,99,99,99,99,2,99,99
+Bombur5,Bombur der Dicke,99,99,99,99,99,2,99,99
+Beorn2,Beorn der Hautwechsler,99,99,99,99,99,2,99,99
+Thranduil2,Thranduil König unter Eiche und Buche,99,99,99,99,99,2,99,99
+Thorin7,Thorin Eichenschild,99,99,99,99,99,1,99,99
+Bifur6,Bifur der Zitternde,99,99,99,99,99,1,99,99
+Bofur7,Bofur der Zitternde,99,99,99,99,99,1,99,99
+Fili7,Fili der Verberger,99,99,99,99,99,1,99,99
+Kili7,Kili der Keilschmied,99,99,99,99,99,1,99,99
+Dori7,Dori der Narr,99,99,99,99,99,1,99,99
+Nori7,Nori der Winzling,99,99,99,99,99,1,99,99
+Ori7,Ori der Verrückte,99,99,99,99,99,1,99,99
+Oin7,Oin der Furchtsame,99,99,99,99,99,1,99,99
+Gloin7,Gloin der Glühende ,99,99,99,99,99,1,99,99
+Balin7,Balin Sohn des Fundin,99,99,99,99,99,1,99,99
+Dwalin7,Dwalin der Schlafende,99,99,99,99,99,1,99,99
+Bombur7,Bombur der Dicke,99,99,99,99,99,1,99,99
+Bilbo8,Bilbo Beutlin,99,99,99,99,99,1,99,99
+Gandalf5,Gandalf der Graue,99,99,99,99,99,1,99,99
+Elrond2,Elrond,99,99,99,99,99,99,1,2
+Lindir1,Lindir,99,99,99,99,99,99,1,2
+Galadriel2,Herrin von Lothlorien,99,99,99,99,99,99,1,2
+Saruman2,Saruman der Weiße,99,99,99,99,99,99,1,2
+Thorin8,Thorin Eichenschild,99,99,99,99,99,99,1,2
+Bifur8,Bifur der Zitternde,99,99,99,99,99,99,1,2
+Bofur8,Bofur der Zitternde,99,99,99,99,99,99,1,2
+Fili8,Fili der Verberger,99,99,99,99,99,99,1,2
+Kili8,Kili der Keilschmied,99,99,99,99,99,99,1,2
+Dori8,Dori der Narr,99,99,99,99,99,99,1,2
+Nori8,Nori der Winzling,99,99,99,99,99,99,1,2
+Ori8,Ori der Verrückte,99,99,99,99,99,99,1,2
+Oin8,Oin der Furchtsame,99,99,99,99,99,99,1,2
+Gloin8,Gloin der Glühende ,99,99,99,99,99,99,1,2
+Balin8,Balin Sohn des Fundin,99,99,99,99,99,99,1,2
+Dwalin8,Dwalin der Schlafende,99,99,99,99,99,99,1,2
+Bombur8,Bombur der Dicke,99,99,99,99,99,99,1,2
+Bilbo9,Bilbo Beutlin,99,99,99,99,99,99,1,2
+Gandalf6,Gandalf der Graue,99,99,99,99,99,99,1,2
+Verlieswächter1,Verlieswächter,99,99,99,99,99,99,3,6
