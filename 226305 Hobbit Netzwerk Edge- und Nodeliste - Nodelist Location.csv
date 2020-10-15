@@ -1,0 +1,157 @@
+id,name,book chapter,film section,film location
+Thorin,Thorin Eichenschild,99,1,1
+Thror,König Thror,99,1,1
+Thrain II,König Thrain Sohn des Thror,99,1,1
+Bilbo,Bilbo Beutlin,99,1,1
+Balin,Balin Sohn des Fundin,99,1,1
+Bifur,Bifur der Zitternde,99,1,1
+Bofur,Bofur der Zitternde,99,1,1
+Bombur,Bombur der Dicke,99,1,1
+Dori,Dori der Narr,99,1,1
+Dwalin,Dwalin der Schlafende,99,1,1
+Fili,Fili der Verberger,99,1,1
+Gloin,Gloin der Glühende ,99,1,1
+Kili,Kili der Keilschmied,99,1,1
+Nori,Nori der Winzling,99,1,1
+ThoriN,Thorin Eichenschild,99,1,1
+Oin,Oin der Furchtsame,99,1,1
+Ori,Ori der Verrückte,99,1,1
+Azog,Azog der Orkhäuptling,99,1,1
+Bolg,Sohn von Azog,99,1,1
+Fimbul,Fimbul aus Azogs Armee,99,1,1
+Yazneg,Yazneg der Orkjäger,99,1,1
+Narzug,Narzug der Gundabadork unter Azogs Kommando,99,1,1
+BilbO,Bilbo Beutlin,99,3,7
+Gandalf,Gandalf der Graue,99,3,7
+BilBo,Bilbo Beutlin,4,99,99
+GandalF,Gandalf der Graue,4,99,99
+BaliN,Balin Sohn des Fundin,4,99,99
+Nekromant,Nekromant Synonym für Sauron,99,2,5
+BolG,Sohn von Azog,99,2,5
+AzoG,Azog der Orkhäuptling,99,2,5
+FimbuL,Fimbul aus Azogs Armee,99,2,5
+GandaLf,Gandalf der Graue,99,2,5
+Radagast,Radagast der Braune,99,2,5
+ThraiN II,König Thrain Sohn des Thror,99,2,5
+GandAlf,Gandalf der Graue,99,3,6
+RadagasT,Radagast der Braune,99,3,6
+NekromanT,Nekromant Synonym für Sauron,99,3,6
+Elrond,Elrond,99,3,6
+Galadriel,Herrin von Lothlorien,99,3,6
+Saruman,Saruman der Weiße,99,3,6
+Ringgeister,Schwarze Reiter,99,3,6
+BiLbo,Bilbo Beutlin,99,2,4
+ThorIn,Thorin Eichenschild,99,2,4
+BifuR,Bifur der Zitternde,99,2,4
+BofuR,Bofur der Zitternde,99,2,4
+FilI,Fili der Verberger,99,2,4
+KilI,Kili der Keilschmied,99,2,4
+DorI,Dori der Narr,99,2,4
+NorI,Nori der Winzling,99,2,4
+OrI,Ori der Verrückte,99,2,4
+OiN,Oin der Furchtsame,99,2,4
+GloiN,Gloin der Glühende ,99,2,4
+BalIn,Balin Sohn des Fundin,99,2,4
+DwaliN,Dwalin der Schlafende,99,2,4
+BombuR,Bombur der Dicke,99,2,4
+Alfrid,Alfrid Lickspittle,99,2,4
+Bard,Bard der Bogenschütze,99,2,4
+Bain,Bain König von Thal,99,2,4
+Braga,Braga Befehlshaber der Wache,99,2,4
+Legolas,Legolas Sohn von Thranduil,99,2,4
+Meister der Seestadt,Bürgermeister von Esgaroth,99,2,4
+Sigrid,Sigrid Bardsdottir,99,2,4
+Tauriel,Tauriel Tochter des Waldes,99,2,4
+Tilda,Tilda Tochter von Bard,99,2,4
+Peridur,Peridur Wächter des Zolltores der Seestadt,99,2,4
+Hilda Bianca,Hilda Bianca Marktverkäuferin,99,2,4
+BoLg,Sohn von Azog,99,2,4
+Smaug,Smaug der Goldene,99,2,4
+Girion,Girion Fürst von Thal,99,2,4
+ThoRin,Thorin Eichenschild,3,99,99
+BifUr,Bifur der Zitternde,3,99,99
+BofUr,Bofur der Zitternde,3,99,99
+FiLi,Fili der Verberger,3,99,99
+KiLi,Kili der Keilschmied,3,99,99
+DoRi,Dori der Narr,3,99,99
+NoRi,Nori der Winzling,3,99,99
+ORi,Ori der Verrückte,3,99,99
+OIn,Oin der Furchtsame,3,99,99
+GloIn,Gloin der Glühende ,3,99,99
+BaLin,Balin Sohn des Fundin,3,99,99
+DwalIn,Dwalin der Schlafende,3,99,99
+BombUr,Bombur der Dicke,3,99,99
+Meister der SeestadT,Bürgermeister von Esgaroth,3,99,99
+BIlbo,Bilbo Beutlin,3,99,99
+BilBO,Bilbo Beutlin,99,2,3
+ThOrin,Thorin Eichenschild,99,2,3
+BiFur,Bifur der Zitternde,99,2,3
+BoFur,Bofur der Zitternde,99,2,3
+FIli,Fili der Verberger,99,2,3
+KIli,Kili der Keilschmied,99,2,3
+DOri,Dori der Narr,99,2,3
+NOri,Nori der Winzling,99,2,3
+ORI,Ori der Verrückte,99,2,3
+OIN,Oin der Furchtsame,99,2,3
+GLoin,Gloin der Glühende ,99,2,3
+BAlin,Balin Sohn des Fundin,99,2,3
+DwAlin,Dwalin der Schlafende,99,2,3
+BoMbur,Bombur der Dicke,99,2,3
+Beorn,Beorn der Hautwechsler,99,2,3
+LegolaS,Legolas Sohn von Thranduil,99,2,3
+TaurieL,Tauriel Tochter des Waldes,99,2,3
+Thranduil,Thranduil König unter Eiche und Buche,99,2,3
+GalioN,Galion Bedienstester von Thranduil,99,2,3
+BOlg,Sohn von Azog,99,2,3
+NarzuG,Narzug der Gundabadork unter Azogs Kommando,99,2,3
+BiLBO,Bilbo Beutlin,2,99,99
+THorin,Thorin Eichenschild,2,99,99
+BIfur,Bifur der Zitternde,2,99,99
+BOfur,Bofur der Zitternde,2,99,99
+FiLI,Fili der Verberger,2,99,99
+KiLI,Kili der Keilschmied,2,99,99
+DORI,Dori der Narr,2,99,99
+NORI,Nori der Winzling,2,99,99
+ORI1,Ori der Verrückte,2,99,99
+OIN1,Oin der Furchtsame,2,99,99
+GLOin,Gloin der Glühende ,2,99,99
+BALIN,Balin Sohn des Fundin,2,99,99
+DWalin,Dwalin der Schlafende,2,99,99
+BOmbur,Bombur der Dicke,2,99,99
+BeorN,Beorn der Hautwechsler,2,99,99
+ThranduiL,Thranduil König unter Eiche und Buche,2,99,99
+THORIN,Thorin Eichenschild,1,99,99
+BIFUR,Bifur der Zitternde,1,99,99
+BOFUR,Bofur der Zitternde,1,99,99
+FILI,Fili der Verberger,1,99,99
+KILI,Kili der Keilschmied,1,99,99
+DORI,Dori der Narr,1,99,99
+NORI,Nori der Winzling,1,99,99
+ORI2,Ori der Verrückte,1,99,99
+OIN2,Oin der Furchtsame,1,99,99
+GLOIN,Gloin der Glühende ,1,99,99
+BALIn,Balin Sohn des Fundin,1,99,99
+DWAlin,Dwalin der Schlafende,1,99,99
+BOMBUr,Bombur der Dicke,1,99,99
+BILBo,Bilbo Beutlin,1,99,99
+GandAlf,Gandalf der Graue,1,99,99
+ElronD,Elrond,99,1,2
+Lindir,Lindir,99,1,2
+GaladrieL,Herrin von Lothlorien,99,1,2
+SarumaN,Saruman der Weiße,99,1,2
+THORIn,Thorin Eichenschild,99,1,2
+BIFUR1,Bifur der Zitternde,99,1,2
+BOFUR1,Bofur der Zitternde,99,1,2
+FILI1,Fili der Verberger,99,1,2
+KILI1,Kili der Keilschmied,99,1,2
+DORI1,Dori der Narr,99,1,2
+NORI1,Nori der Winzling,99,1,2
+ORI3,Ori der Verrückte,99,1,2
+OIN3,Oin der Furchtsame,99,1,2
+GLOIN1,Gloin der Glühende ,99,1,2
+BALiN,Balin Sohn des Fundin,99,1,2
+DWAlIN,Dwalin der Schlafende,99,1,2
+BOmBUR,Bombur der Dicke,99,1,2
+BILBO1,Bilbo Beutlin,99,1,2
+GaNdalf,Gandalf der Graue,99,1,2
+Verlieswächter,Verlieswächter,99,3,6
