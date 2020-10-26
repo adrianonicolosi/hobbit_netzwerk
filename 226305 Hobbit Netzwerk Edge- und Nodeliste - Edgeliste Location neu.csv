@@ -1,0 +1,153 @@
+from,to,book chapter,film section,location
+Thorin,Moria Krieg,99,1,1
+Thror,Moria Krieg,99,1,1
+Thrain II,Moria Krieg,99,1,1
+,,,,
+Balin,Moria Krieg,99,1,1
+Bifur,Moria Krieg,99,1,1
+Bofur,Moria Krieg,99,1,1
+Bombur,Moria Krieg,99,1,1
+Dori,Moria Krieg,99,1,1
+Dwalin,Moria Krieg,99,1,1
+Gloin,Moria Krieg,99,1,1
+Nori,Moria Krieg,99,1,1
+Thorin,Moria Krieg,99,1,1
+Oin,Moria Krieg,99,1,1
+Azog,Moria Krieg,99,1,1
+Bolg,Moria Krieg,99,1,1
+Fimbul,Moria Krieg,99,1,1
+Yazneg,Moria Krieg,99,1,1
+Narzug,Moria Krieg,99,1,1
+Bilbo,Auenland Ende,99,3,7
+Gandalf,Auenland Ende,99,3,7
+Bilbo,Auenland Ende,4,99,99
+Gandalf,Auenland Ende,4,99,99
+Balin,Auenland Ende,4,99,99
+Nekromant,Dol Goldur,99,2,5
+Bolg,Dol Goldur,99,2,5
+Azog,Dol Goldur,99,2,5
+Fimbul,Dol Goldur,99,2,5
+Gandalf,Dol Goldur,99,2,5
+Radagast,Dol Goldur,99,2,5
+Thrain II,Dol Goldur,99,2,5
+Gandalf,Dol Goldur,99,3,6
+Radagast,Dol Goldur,99,3,6
+Nekromant,Dol Goldur,99,3,6
+Elrond,Dol Goldur,99,3,6
+Galadriel,Dol Goldur,99,3,6
+Saruman,Dol Goldur,99,3,6
+Ringgeister,Dol Goldur,99,3,6
+Bilbo,Seestadt,99,2,4
+Thorin,Seestadt,99,2,4
+Bifur,Seestadt,99,2,4
+Bofur,Seestadt,99,2,4
+Fili,Seestadt,99,2,4
+Kili,Seestadt,99,2,4
+Dori,Seestadt,99,2,4
+Nori,Seestadt,99,2,4
+Ori,Seestadt,99,2,4
+Oin,Seestadt,99,2,4
+Gloin,Seestadt,99,2,4
+Balin,Seestadt,99,2,4
+Dwalin,Seestadt,99,2,4
+Bombur,Seestadt,99,2,4
+Alfrid,Seestadt,99,2,4
+Bard,Seestadt,99,2,4
+Bain,Seestadt,99,2,4
+Braga,Seestadt,99,2,4
+Legolas,Seestadt,99,2,4
+Meister der Seestadt,Seestadt,99,2,4
+Sigrid,Seestadt,99,2,4
+Tauriel,Seestadt,99,2,4
+Tilda,Seestadt,99,2,4
+Peridur,Seestadt,99,2,4
+Hilda Bianca,Seestadt,99,2,4
+Bolg,Seestadt,99,2,4
+Smaug,Seestadt,99,2,4
+Thorin,Seestadt,3,99,99
+Bifur,Seestadt,3,99,99
+Bofur,Seestadt,3,99,99
+Fili,Seestadt,3,99,99
+Kili,Seestadt,3,99,99
+Dori,Seestadt,3,99,99
+Nori,Seestadt,3,99,99
+Ori,Seestadt,3,99,99
+Oin,Seestadt,3,99,99
+Gloin,Seestadt,3,99,99
+Balin,Seestadt,3,99,99
+Dwalin,Seestadt,3,99,99
+Bombur,Seestadt,3,99,99
+Meister der Seestadt,Seestadt,3,99,99
+Bilbo,Seestadt,3,99,99
+Bilbo,Düsterwald inkl. Waldelbenfestung,99,2,3
+Thorin,Düsterwald inkl. Waldelbenfestung,99,2,3
+Bifur,Düsterwald inkl. Waldelbenfestung,99,2,3
+Bofur,Düsterwald inkl. Waldelbenfestung,99,2,3
+Fili,Düsterwald inkl. Waldelbenfestung,99,2,3
+Kili,Düsterwald inkl. Waldelbenfestung,99,2,3
+Dori,Düsterwald inkl. Waldelbenfestung,99,2,3
+Nori,Düsterwald inkl. Waldelbenfestung,99,2,3
+Ori,Düsterwald inkl. Waldelbenfestung,99,2,3
+Oin,Düsterwald inkl. Waldelbenfestung,99,2,3
+Gloin,Düsterwald inkl. Waldelbenfestung,99,2,3
+Balin,Düsterwald inkl. Waldelbenfestung,99,2,3
+Dwalin,Düsterwald inkl. Waldelbenfestung,99,2,3
+Bombur,Düsterwald inkl. Waldelbenfestung,99,2,3
+Beorn,Düsterwald inkl. Waldelbenfestung,99,2,3
+Legolas,Düsterwald inkl. Waldelbenfestung,99,2,3
+Tauriel,Düsterwald inkl. Waldelbenfestung,99,2,3
+Thranduil,Düsterwald inkl. Waldelbenfestung,99,2,3
+Galion,Düsterwald inkl. Waldelbenfestung,99,2,3
+Bolg,Düsterwald inkl. Waldelbenfestung,99,2,3
+Narzug,Düsterwald inkl. Waldelbenfestung,99,2,3
+Bilbo,Düsterwald inkl. Waldelbenfestung,2,99,99
+Thorin,Düsterwald inkl. Waldelbenfestung,2,99,99
+Bifur,Düsterwald inkl. Waldelbenfestung,2,99,99
+Bofur,Düsterwald inkl. Waldelbenfestung,2,99,99
+Fili,Düsterwald inkl. Waldelbenfestung,2,99,99
+Kili,Düsterwald inkl. Waldelbenfestung,2,99,99
+Dori,Düsterwald inkl. Waldelbenfestung,2,99,99
+Nori,Düsterwald inkl. Waldelbenfestung,2,99,99
+Ori,Düsterwald inkl. Waldelbenfestung,2,99,99
+Oin,Düsterwald inkl. Waldelbenfestung,2,99,99
+Gloin,Düsterwald inkl. Waldelbenfestung,2,99,99
+Balin,Düsterwald inkl. Waldelbenfestung,2,99,99
+Dwalin,Düsterwald inkl. Waldelbenfestung,2,99,99
+Bombur,Düsterwald inkl. Waldelbenfestung,2,99,99
+Beorn,Düsterwald inkl. Waldelbenfestung,2,99,99
+Thranduil,Düsterwald inkl. Waldelbenfestung,2,99,99
+Thorin,Bruchtal,1,99,99
+Bifur,Bruchtal,1,99,99
+Bofur,Bruchtal,1,99,99
+Fili,Bruchtal,1,99,99
+Kili,Bruchtal,1,99,99
+Dori,Bruchtal,1,99,99
+Nori,Bruchtal,1,99,99
+Ori,Bruchtal,1,99,99
+Oin,Bruchtal,1,99,99
+Gloin,Bruchtal,1,99,99
+Balin,Bruchtal,1,99,99
+Dwalin,Bruchtal,1,99,99
+Bombur,Bruchtal,1,99,99
+Bilbo,Bruchtal,1,99,99
+Gandalf,Bruchtal,1,99,99
+Elrond,Bruchtal,99,1,2
+Lindir,Bruchtal,99,1,2
+Galadriel,Bruchtal,99,1,2
+Saruman,Bruchtal,99,1,2
+Thorin,Bruchtal,99,1,2
+Bifur,Bruchtal,99,1,2
+Bofur,Bruchtal,99,1,2
+Fili,Bruchtal,99,1,2
+Kili,Bruchtal,99,1,2
+Dori,Bruchtal,99,1,2
+Nori,Bruchtal,99,1,2
+Ori,Bruchtal,99,1,2
+Oin,Bruchtal,99,1,2
+Gloin,Bruchtal,99,1,2
+Balin,Bruchtal,99,1,2
+Dwalin,Bruchtal,99,1,2
+Bombur,Bruchtal,99,1,2
+Bilbo,Bruchtal,99,1,2
+Gandalf,Bruchtal,99,1,2
+Verlieswächter,Dol Goldur,99,3,6
