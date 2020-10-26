@@ -1,0 +1,155 @@
+from,to,book chapter,film section,location
+Dori,Auenland Ende,99,3,7
+Balin,Auenland Ende,99,3,7
+Dwalin,Auenland Ende,4,99,99
+Dwalin,Auenland Ende,4,99,99
+Bifur,Auenland Ende,4,99,99
+Bofur,Bruchtal,99,1,2
+Bifur,Bruchtal,99,1,2
+Nekromant,Bruchtal,99,1,2
+Fili,Bruchtal,99,1,2
+Hilda Bianca,Bruchtal,99,1,2
+Bolg,Bruchtal,99,1,2
+Gandalf,Bruchtal,99,1,2
+Bofur,Bruchtal,99,1,2
+Thorin,Bruchtal,99,1,2
+Legolas,Bruchtal,99,1,2
+Thorin,Bruchtal,99,1,2
+Ori,Bruchtal,99,1,2
+Balin,Bruchtal,99,1,2
+Bifur,Bruchtal,99,1,2
+Thorin,Bruchtal,99,1,2
+Dori,Bruchtal,99,1,2
+Nori,Bruchtal,99,1,2
+Gloin,Bruchtal,99,1,2
+Fili,Bruchtal,1,99,99
+Bifur,Bruchtal,1,99,99
+Kili,Bruchtal,1,99,99
+Kili,Bruchtal,1,99,99
+Bilbo,Bruchtal,1,99,99
+Bofur,Bruchtal,1,99,99
+Bilbo,Bruchtal,1,99,99
+Dori,Bruchtal,1,99,99
+Braga,Bruchtal,1,99,99
+Thorin,Bruchtal,1,99,99
+Oin,Bruchtal,1,99,99
+Oin,Bruchtal,1,99,99
+Thorin,Bruchtal,1,99,99
+Fili,Bruchtal,1,99,99
+Fili,Bruchtal,1,99,99
+Bombur,Bruchtal,1,99,99
+Tauriel,Dol Goldur,99,2,5
+Thranduil,Dol Goldur,99,2,5
+Dwalin,Dol Goldur,99,2,5
+Thranduil,Dol Goldur,99,2,5
+Radagast,Dol Goldur,99,2,5
+Balin,Dol Goldur,99,2,5
+Nekromant,Dol Goldur,99,2,5
+Sigrid,Dol Goldur,99,3,6
+Fimbul,Dol Goldur,99,3,6
+Radagast,Dol Goldur,99,3,6
+Dori,Dol Goldur,99,3,6
+Bifur,Dol Goldur,99,3,6
+Bolg,Dol Goldur,99,3,6
+Ori,Dol Goldur,99,3,6
+Beorn,Dol Goldur,99,3,6
+Girion,Düsterwald,2,99,99
+Gloin,Düsterwald,2,99,99
+Nori,Düsterwald,2,99,99
+Smaug,Düsterwald,2,99,99
+Meister der Seestadt,Düsterwald,2,99,99
+Bofur,Düsterwald,2,99,99
+Meister der Seestadt,Düsterwald,2,99,99
+Narzug,Düsterwald,2,99,99
+Ringgeister,Düsterwald,2,99,99
+Gloin,Düsterwald,2,99,99
+Oin,Düsterwald,2,99,99
+Gloin,Düsterwald,2,99,99
+Bombur,Düsterwald,2,99,99
+Balin,Düsterwald,2,99,99
+Nori,Düsterwald,2,99,99
+Oin,Düsterwald,2,99,99
+Balin,Düsterwald inkl. Waldelbenfestung,99,2,3
+Gloin,Düsterwald inkl. Waldelbenfestung,99,2,3
+Lindir,Düsterwald inkl. Waldelbenfestung,99,2,3
+Thrain II,Düsterwald inkl. Waldelbenfestung,99,2,3
+Bofur,Düsterwald inkl. Waldelbenfestung,99,2,3
+Bilbo,Düsterwald inkl. Waldelbenfestung,99,2,3
+Dori,Düsterwald inkl. Waldelbenfestung,99,2,3
+Kili,Düsterwald inkl. Waldelbenfestung,99,2,3
+Kili,Düsterwald inkl. Waldelbenfestung,99,2,3
+Tauriel,Düsterwald inkl. Waldelbenfestung,99,2,3
+Bolg,Düsterwald inkl. Waldelbenfestung,99,2,3
+Nori,Düsterwald inkl. Waldelbenfestung,99,2,3
+Azog,Düsterwald inkl. Waldelbenfestung,99,2,3
+Dwalin,Düsterwald inkl. Waldelbenfestung,99,2,3
+Dori,Düsterwald inkl. Waldelbenfestung,99,2,3
+Ori,Düsterwald inkl. Waldelbenfestung,99,2,3
+Legolas,Düsterwald inkl. Waldelbenfestung,99,2,3
+Oin,Düsterwald inkl. Waldelbenfestung,99,2,3
+Oin,Düsterwald inkl. Waldelbenfestung,99,2,3
+Alfrid,Düsterwald inkl. Waldelbenfestung,99,2,3
+Bofur,Düsterwald inkl. Waldelbenfestung,99,2,3
+Bombur,Moria Krieg,99,1,1
+Bombur,Moria Krieg,99,1,1
+Gloin,Moria Krieg,99,1,1
+Bombur,Moria Krieg,99,1,1
+Bilbo,Moria Krieg,99,1,1
+Balin,Moria Krieg,99,1,1
+Dwalin,Moria Krieg,99,1,1
+Fili,Moria Krieg,99,1,1
+Azog,Moria Krieg,99,1,1
+Fili,Moria Krieg,99,1,1
+Ori,Moria Krieg,99,1,1
+Thror,Moria Krieg,99,1,1
+Saruman,Moria Krieg,99,1,1
+Bain,Moria Krieg,99,1,1
+Yazneg,Moria Krieg,99,1,1
+Fili,Moria Krieg,99,1,1
+Narzug,Moria Krieg,99,1,1
+Nori,Moria Krieg,99,1,1
+Elrond,Moria Krieg,99,1,1
+Bilbo,Moria Krieg,99,1,1
+Bard,Seestadt,99,2,4
+Thorin,Seestadt,99,2,4
+Galadriel,Seestadt,99,2,4
+Saruman,Seestadt,99,2,4
+Ori,Seestadt,99,2,4
+Kili,Seestadt,99,2,4
+Dwalin,Seestadt,99,2,4
+Kili,Seestadt,99,2,4
+Bofur,Seestadt,99,2,4
+Gandalf,Seestadt,99,2,4
+Beorn,Seestadt,99,2,4
+Peridur,Seestadt,99,2,4
+Bilbo,Seestadt,99,2,4
+Balin,Seestadt,99,2,4
+Kili,Seestadt,99,2,4
+Bolg,Seestadt,99,2,4
+Thrain II,Seestadt,99,2,4
+Galion,Seestadt,99,2,4
+Elrond,Seestadt,99,2,4
+Galadriel,Seestadt,99,2,4
+Balin,Seestadt,99,2,4
+Nori,Seestadt,99,2,4
+Gandalf,Seestadt,99,2,4
+Dwalin,Seestadt,99,2,4
+Bilbo,Seestadt,99,2,4
+Elrond,Seestadt,99,2,4
+Gandalf,Seestadt,99,2,4
+Verlieswächter,Seestadt,99,2,4
+Dori,Seestadt,3,99,99
+Gandalf,Seestadt,3,99,99
+Tilda,Seestadt,3,99,99
+Bifur,Seestadt,3,99,99
+Gloin,Seestadt,3,99,99
+Oin,Seestadt,3,99,99
+Thorin,Seestadt,3,99,99
+Nori,Seestadt,3,99,99
+Ori,Seestadt,3,99,99
+Fimbul,Seestadt,3,99,99
+Bombur,Seestadt,3,99,99
+Bombur,Seestadt,3,99,99
+Bilbo,Seestadt,3,99,99
+Ori,Seestadt,3,99,99
+Bifur,Seestadt,3,99,99
