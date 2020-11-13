@@ -26,7 +26,7 @@
 <p>7= Auenland Ende</p>
 
 
-**EDGE-Attribute (Netzwerk)**
+<h2> EDGE-Attribute (Gesamtnetzwerk)</h2>
 
 <p>**from** = id des Knoten</p>
 
@@ -45,7 +45,7 @@
 <p>6= Liebe
 
 
-**NODE-Attribute**
+<h2> NODE-ATTRIBUTE </h2>
 
 **id**
 <p>Identische ID wie aus der edgelist zur Identifikation der Knoten. In diesem Fall sind alle personenbezogenen Daten aus der Hobbit Buch- und Filmreihe.
