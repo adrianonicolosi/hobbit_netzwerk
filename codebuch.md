@@ -45,7 +45,7 @@
 <p>6= Liebe
 
 
-<h2> NODE-ATTRIBUTE </h2>
+<h2> NODE-Attribute </h2>
 
 **id**
 <p>Identische ID wie aus der edgelist zur Identifikation der Knoten. In diesem Fall sind alle personenbezogenen Daten aus der Hobbit Buch- und Filmreihe.
@@ -96,5 +96,5 @@
 <p>2= Film
 <p>3= Film und Buch
   
-  **99=fehlender Wert**
+**99=fehlender Wert**
 
