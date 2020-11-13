@@ -28,9 +28,9 @@
 
 <h2> EDGE-Attribute (Gesamtnetzwerk)</h2>
 
-<p>**from** = id des Knoten</p>
+<p> from = id des Knoten</p>
 
-<p>**to** = id des Knoten</p>
+<p> to = id des Knoten</p>
 
 **weight**
 <p>1= schwache Beziehung
