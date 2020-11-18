@@ -19,32 +19,32 @@ Alfrid,Alfrid Lickspittle,2,1,4,7,2,Alfrid,99,99,99,99,99,1,1
 Bard,Bard der Bogenschütze,2,1,4,7,3,Bard,99,99,99,99,99,1,1
 Beorn,Beorn der Hautwechsler,2,99,7,6,3,Beorn,99,99,99,99,1,1,1
 Bain,Bain König von Thal,2,1,4,7,2,Bain,99,99,99,99,99,1,1
-Braga,Braga Befehlshaber der Wache,2,99,4,7,2,Braga,99,99,99,99,99,1,1
+Braga,Braga Befehlshaber,2,99,4,7,2,Braga,99,99,99,99,99,1,1
 Galion,Galion Bedienstester von Thranduil,2,99,2,3,3,Galion,99,99,99,99,1,1,1
 Legolas,Legolas Sohn von Thranduil,2,5,2,3,2,Legolas,99,99,99,99,1,1,1
 Meister der Seestadt,Bürgermeister von Esgaroth,2,99,4,7,3,Meister der Seestadt,99,99,99,99,99,1,1
 Sigrid,Sigrid Bardsdottir,1,1,4,7,2,Sigrid,99,99,99,99,99,1,1
 Tauriel,Tauriel Tochter des Waldes,1,5,2,3,2,Tauriel,99,99,99,99,1,1,1
-Thranduil,Thranduil König unter Eiche und Buche,1,5,2,3,3,Thranduil,99,99,99,99,1,1,1
+Thranduil,Thranduil König unter Eiche u. Buche,2,5,2,3,3,Thranduil,99,99,99,99,1,1,1
 Tilda,Tilda Tochter von Bard,1,1,4,7,2,Tilda,99,99,99,99,99,1,1
-Peridur,Peridur Wächter des Zolltores der Seestadt,2,99,4,7,2,Peridur,99,99,99,99,99,1,1
+Peridur,Peridur Wächter der Seestadt,2,99,4,7,2,Peridur,99,99,99,99,99,1,1
 Hilda Bianca,Hilda Bianca Marktverkäuferin,1,1,4,7,2,Hilda Bianca,99,99,99,99,99,1,1
 Azog,Azog der Orkhäuptling,2,99,3,2,2,Azog,99,99,1,1,1,1,1
 Bolg,Sohn von Azog,2,99,3,2,3,Bolg,99,99,1,1,1,1,1
 Fimbul,Fimbul aus Azogs Armee,2,99,3,7,2,Fimbul,99,99,1,1,1,1,1
-Grinnah,Grinnah der Handlanger vom Großen Ork,2,99,3,2,2,Grinnah,99,99,99,1,1,1,1
+Grinnah,Grinnah der Handlanger,2,99,3,2,2,Grinnah,99,99,99,1,1,1,1
 Yazneg,Yazneg der Orkjäger,2,99,3,5,2,Yazneg,99,99,99,1,1,1,1
 Großer Goblin,Großer Goblin,2,99,3,5,3,Großer Goblin,99,99,99,1,1,1,1
 Goblin-Schreiber,Goblin-Schreiber,2,99,3,5,2,Goblin-Schreiber,99,99,99,1,1,1,1
 Narzug,Narzug der Gundabadork unter Azogs Kommando,2,99,3,3,2,Narzug,99,99,99,1,1,1,1
 Verlieswächter,Verlieswächter,2,99,3,5,2,Verlieswächter,99,99,99,99,99,99,1
-Nekromant,Nekromant Synonym für Sauron,2,5,8,3,2,Nekromant,99,99,99,1,1,1,1
+Nekromant,Nekromant/Sauron,2,5,8,3,2,Nekromant,99,99,99,1,1,1,1
 Ringgeister,Schwarze Reiter,2,5,11,13,2,Ringgeister,99,99,99,1,1,99,1
 Bert,Bert Huggins,2,99,9,4,2,Bert,99,99,1,1,1,1,1
 Bill,Bill Huggins,2,99,9,4,3,Bill,99,99,1,1,1,1,1
 Tom,Tom Huggins,2,99,9,4,3,Tom,99,99,1,1,1,1,1
 Elrond,Elrond,2,5,2,4,3,Elrond,99,99,1,1,1,1,1
-Galadriel,Herrin von Lothlorien,1,5,2,4,3,Galadriel,99,99,1,1,1,1,1
+Galadriel,Galadriel,1,5,2,4,3,Galadriel,99,99,1,1,1,1,1
 Lindir,Lindir,2,5,2,4,2,Lindir,99,99,1,1,1,1,1
 Radagast,Radagast der Braune,2,5,6,10,3,Radagast,99,99,1,1,1,1,1
 Saruman,Saruman der Weiße,2,5,6,12,3,Saruman,99,99,1,1,1,1,1
