@@ -61,7 +61,7 @@
 <p>3= 100 bis 150 Jahre
 <p>4= 150 bis 200 Jahre
 <p>5= über 200 Jahre
-<p>99= unknown 
+
 
 **origin**
 <p>1= Hobbit
@@ -96,5 +96,9 @@
 <p>2= Film
 <p>3= Film und Buch
   
+ **real_name**
+ 
+ **time - time_sieben**
+ 
 **99=fehlender Wert**
 
