@@ -1,1 +1,2 @@
-# hobbit_netzwerk
+# Wilkommen beim Hobbit Netzwerk
+
